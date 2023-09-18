@@ -1,12 +1,12 @@
 # shareURday
 
-# Advanced Toy Project: 팀원 분들과 함께 만든 프로젝트를 혼자 개선시킨 board
+## Advanced Toy Project: 팀원 분들과 함께 만든 프로젝트를 혼자 개선시킨 board
 
-## Stacks
+### Stacks
 
 Environment
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 Config
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -17,7 +17,7 @@ Development
 
 Communication
 
-## GitHub Convention
+### GitHub Convention
 
 - 🟢 feat >>
   새로운 기능
