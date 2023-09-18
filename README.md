@@ -5,16 +5,15 @@
 ## Stacks
 
 Environment
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 Config
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 
 Development
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 Communication
 
 ## GitHub Convention
