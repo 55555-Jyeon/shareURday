@@ -6,7 +6,7 @@
 
 Environment
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat-square&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 
 Config
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
